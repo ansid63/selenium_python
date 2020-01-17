@@ -1,3 +1,3 @@
 # selenium_python
 
-Задачи к курсу Selenium on Python.
+Задачи к курсу Selenium on Python. stepik.com
